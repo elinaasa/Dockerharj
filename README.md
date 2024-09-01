@@ -1,5 +1,6 @@
 mkdir my-node-app cd my-node-app npm init -y
-![Screenshot 2024-09-01 213408](https://github.com/user-attachments/assets/6bc01077-251d-4e03-aa46-fc396909ecb7)
+![image](https://github.com/user-attachments/assets/8ccc34c2-9567-46b3-a0ae-e8e21f9eabd2)
+
 
 ![image](https://github.com/user-attachments/assets/eaf19079-501d-4b9f-9069-caec0bbd0a64)
 ![image](https://github.com/user-attachments/assets/d1d19d69-993c-4395-9c04-d50c8f76bbe3)
